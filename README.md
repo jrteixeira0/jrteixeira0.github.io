@@ -54,8 +54,7 @@ Cyber Security Academy Student @ Rumos
 ## Certifications
 <div>
 <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
-<!-- <img src="https://raw.githubusercontent.com/jrteixeira0/jrteixeira0.github.io/main/assets/certf/infosec-badge.png" alt="Infosec Badge" width="100" height="100"> -->
     <a href="https://www.credly.com/badges/df19e647-7213-46c4-b771-c5da385d0212/public_url" target="_blank">
-        <img src="https://raw.githubusercontent.com/jrteixeira0/jrteixeira0.github.io/main/assets/certf/infosec-badge.png" alt="Infosec Badge"> 
+        <img src="https://raw.githubusercontent.com/jrteixeira0/jrteixeira0.github.io/main/assets/certf/infosec-badge.png" alt="Infosec Badge" width="100" height="100"> 
     </a>
 </div>
