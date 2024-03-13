@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 Cyber Security Academy Student @ Rumos
 <!-- Bachelor of Science in Computer Engineering @ FCTUNL -->
 
-##Skills
+## Skills
 
 | Skill                                         |
 |-----------------------------------------------|
