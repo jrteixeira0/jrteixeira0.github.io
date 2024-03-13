@@ -54,4 +54,6 @@ Cyber Security Academy Student @ Rumos
 ## Certifications
 <div>
 <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
+     <img src="https://raw.githubusercontent.com/jrteixeira0/jrteixeira0.github.io/main/assets/certf/infosec-badge.png" alt="Informatics and Security Fundamentals Badge" style="for-the-badge; width: auto; height: auto; background-color: #1679A7; padding: 5px; border-radius: 5px;">
+
 </div>
