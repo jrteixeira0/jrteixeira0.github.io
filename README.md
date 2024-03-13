@@ -55,4 +55,3 @@ Cyber Security Academy Student @ Rumos
 <div>
 <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
 </div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="df19e647-7213-46c4-b771-c5da385d0212" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
